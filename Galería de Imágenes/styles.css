@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(255, 255, 165);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
 }
 
 .image{
@@ -17,8 +18,18 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
-<<<<<<< Updated upstream
-h1{background-color: chartreuse;}
-=======
-h1{background-color: darkolivegreen;}
->>>>>>> Stashed changes
+
+
+
+a {
+    color: darkgreen;
+    text-decoration: none;
+}
+
+h1{
+    background-color: chartreuse;
+    align-items: center;
+}
+
+
+
