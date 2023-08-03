@@ -1,6 +1,7 @@
 body {
     background-color: rgb(255, 255, 165);
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: linear-gradient(yellow, pink, red);
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .image{
