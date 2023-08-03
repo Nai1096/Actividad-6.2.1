@@ -1,5 +1,7 @@
 body {
     background-color: rgb(255, 255, 165);
+    background-image: linear-gradient(yellow, pink, red);
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .image{
@@ -18,7 +20,11 @@ body {
     box-shadow: 2px 3px #888888;
 }
 
+
 a {
     color: darkgreen;
     text-decoration: none;
 }
+
+h1{background-color: chartreuse;}
+
